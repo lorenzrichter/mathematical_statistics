@@ -100,7 +100,6 @@ for (i in 1:length(x)) {
 persp(x, y, z, theta = 30, phi = 30)
 contour(x, y, z)
 
-normalpdf(c(x, y), mu, Sigma)
 
 
 # Aufgabe 4
